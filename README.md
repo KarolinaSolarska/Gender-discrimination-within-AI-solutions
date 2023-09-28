@@ -2,7 +2,9 @@
 Based on the data which show that female faculty at the school were less likely to be full professors, more likely to be assistant professors, and earn less money than men, on average, a logistic regression model was built, explaining the probability of AI implementation based on the selected explanatory variables.
 
 ## Data
-In folder 'data' you will find the data you need to run the code. The code contains all the steps taken to create and select an appropriate econometric model. In addition, in the file you will find short eda, tests for the model, marginal effects, odds ratios. You just need to open the file in RStudio and click run.
+In folder 'data' you will find the data you need to run the code. 
+You just need to open the file in RStudio and click run.
+The code contains all the steps taken to create and select an appropriate econometric model. In addition, in the file you will find short eda, tests for the model, marginal effects, odds ratios. In folder you have also two codes, that were used to calculate marginal effects and linktest.
 
 Unprepared data was downloaded from the OpenML website: https://www.openml.org/search?type=data&status=active&id=43626&sort=runs.
 
